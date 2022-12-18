@@ -1,0 +1,13 @@
+start
+Mov rsi, 3
+Mov rdi, 1
+Add rcx, 4
+add 0x3f,5
+Mov 0x7,rcx
+Labela:
+Cmp rcx, rdi
+Add rdi, 1
+Je labela
+Store
+Store
+Load

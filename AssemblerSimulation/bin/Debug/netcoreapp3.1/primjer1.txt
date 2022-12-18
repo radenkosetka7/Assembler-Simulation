@@ -1,0 +1,11 @@
+start
+mov rax, 6
+
+petljaa:
+sub rax,4
+
+
+cmp rax, 0
+jge petljaa
+
+mov rdi, 10

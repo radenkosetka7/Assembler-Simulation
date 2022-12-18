@@ -1,0 +1,13 @@
+D:\Ar\AssemblerSimulation\AssemblerSimulation\bin\Debug\netcoreapp3.1\AssemblerSimulation.exe
+D:\Ar\AssemblerSimulation\AssemblerSimulation\bin\Debug\netcoreapp3.1\AssemblerSimulation.deps.json
+D:\Ar\AssemblerSimulation\AssemblerSimulation\bin\Debug\netcoreapp3.1\AssemblerSimulation.runtimeconfig.json
+D:\Ar\AssemblerSimulation\AssemblerSimulation\bin\Debug\netcoreapp3.1\AssemblerSimulation.runtimeconfig.dev.json
+D:\Ar\AssemblerSimulation\AssemblerSimulation\bin\Debug\netcoreapp3.1\AssemblerSimulation.dll
+D:\Ar\AssemblerSimulation\AssemblerSimulation\bin\Debug\netcoreapp3.1\AssemblerSimulation.pdb
+D:\Ar\AssemblerSimulation\AssemblerSimulation\obj\Debug\netcoreapp3.1\AssemblerSimulation.csprojAssemblyReference.cache
+D:\Ar\AssemblerSimulation\AssemblerSimulation\obj\Debug\netcoreapp3.1\AssemblerSimulation.AssemblyInfoInputs.cache
+D:\Ar\AssemblerSimulation\AssemblerSimulation\obj\Debug\netcoreapp3.1\AssemblerSimulation.AssemblyInfo.cs
+D:\Ar\AssemblerSimulation\AssemblerSimulation\obj\Debug\netcoreapp3.1\AssemblerSimulation.csproj.CoreCompileInputs.cache
+D:\Ar\AssemblerSimulation\AssemblerSimulation\obj\Debug\netcoreapp3.1\AssemblerSimulation.dll
+D:\Ar\AssemblerSimulation\AssemblerSimulation\obj\Debug\netcoreapp3.1\AssemblerSimulation.pdb
+D:\Ar\AssemblerSimulation\AssemblerSimulation\obj\Debug\netcoreapp3.1\AssemblerSimulation.genruntimeconfig.cache
